@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://effy-event-your-self-295fa466.zappy5.app/sitemap.xml

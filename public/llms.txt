@@ -1,0 +1,57 @@
+# effy event your self — Generative Engine Optimization Map
+
+> A הפקות אירועים וימי גיבוש business.
+
+---
+
+## Pages
+
+### דף הבית
+https://effy-event-your-self-295fa466.zappy5.app
+חוויות פעילויות קבוצתיות מרהיבות בטבע לעסקים וחברות. הפקת ימי גיבוש לחברות בטבע עם חבילות מותאמות אישית. צרו קשר עוד היום!
+
+### חבילות אירועים
+https://effy-event-your-self-295fa466.zappy5.app/services
+גלו את מגוון חבילות הפעילויות הקבוצתיות שלנו - ימי גיבוש לחברות בטבע, סדנאות הישרדות, טיולי הרים ועוד. הפקת אירועי טבע לעסקים ברמה הגבוהה ביותר.
+
+### אודות
+https://effy-event-your-self-295fa466.zappy5.app/about
+הכירו את effy event your self - חברת הפקות ימי גיבוש מובילה המתמחה בפעילויות קבוצתיות והפקת אירועי טבע לעסקים. הסיפור שלנו, הערכים שלנו והמחויבות שלנו.
+
+### צור קשר
+https://effy-event-your-self-295fa466.zappy5.app/contact
+צרו קשר עם effy event your self לתיאום ימי גיבוש לחברות בטבע. חברת הפקות ימי גיבוש מובילה עם פעילויות קבוצתיות מותאמות אישית. נשמח לעזור לכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://effy-event-your-self-295fa466.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://effy-event-your-self-295fa466.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://effy-event-your-self-295fa466.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About effy event your self
+effy event your self is a business in the הפקות אירועים וימי גיבוש industry.
+
+## Target Audience
+חברות ועסקים עם 20 עובדים ומעלה
+
+## Industry
+הפקות אירועים וימי גיבוש
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://effy-event-your-self-295fa466.zappy5.app/sitemap.xml
+- **Robots.txt**: https://effy-event-your-self-295fa466.zappy5.app/robots.txt
